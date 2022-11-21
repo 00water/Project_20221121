@@ -32,6 +32,7 @@ var openFile = function(file) {
 실행화면
 ------
 ![image](https://user-images.githubusercontent.com/105781767/203014578-aba9c14f-bfc0-4d90-b110-11369fcc6dfd.png)
+   
 
 크롬 서버를 활용하여 웹에서 자바스크립트 실행하기
 =====================================
